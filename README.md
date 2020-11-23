@@ -34,7 +34,7 @@ Video of project in use:
 
 https://drive.google.com/file/d/19WHzHYCT5NA3b4bi34lnuC_JBRb7xqYE/view
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/19WHzHYCT5NA3b4bi34lnuC_JBRb7xqYE/view)
+[![Watch the video](./utils/videoimage.png)](https://drive.google.com/file/d/19WHzHYCT5NA3b4bi34lnuC_JBRb7xqYE/view)
 
 
 ## Contact
