@@ -28,6 +28,8 @@ Once invoked, the console runs through a series of questions and uses the answer
 
 ## Demo
 
+![application demo](./utils/application.png)
+
 Video of project in use:
 
 https://drive.google.com/file/d/19WHzHYCT5NA3b4bi34lnuC_JBRb7xqYE/view
