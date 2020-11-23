@@ -6,9 +6,9 @@ An easy to use console based application that assists in writing and creating a 
 
 ## User Story
 
-AS A developer
-*I WANT a README generator
-*SO THAT I can quickly create a professional README for a new project.
+AS A developer <br>
+I WANT a README generator<br>
+SO THAT I can quickly create a professional README for a new project.
 
 
 ## Table of Contents
