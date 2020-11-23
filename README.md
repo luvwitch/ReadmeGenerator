@@ -2,13 +2,13 @@
 
 ## Description
 
-An easy to use console based application that assists in writing and creating a professional README.me file.
+An easy to use console based application that assists in writing and creating a professional README.md file.
 
 ## User Story
 
 AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project.
+*I WANT a README generator
+*SO THAT I can quickly create a professional README for a new project.
 
 
 ## Table of Contents
